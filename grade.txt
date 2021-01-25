@@ -1,0 +1,23 @@
+Q1: 5 / 5
+Q2: 5 / 5
+Q3: 2 / 2
+Q4: 0 / 2
+	['www.yahoo.com.tw']: given output does not match output of hosts
+	===
+	Student
+	---
+	www.yahoo.com.tw is an alias for src1.yahoo.com.
+	src.san1.g01.yahoodns.net. has address 74.6.136.151
+	
+	Hosts
+	---
+	www.yahoo.com.tw is an alias for src1.yahoo.com.
+	src1.yahoo.com is an alias for src.san1.g01.yahoodns.net.
+	src.san1.g01.yahoodns.net has address 74.6.136.151
+Q5: 4 / 4
+Q6: 3 / 3
+Q7: 0 / 3
+	Requesting information from uic.edu after illinois.edu did not reduce the number of requests needed for uic.edu
+Q8: 1 / 1
+===
+Total: 20 / 20
