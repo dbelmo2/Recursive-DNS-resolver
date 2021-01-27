@@ -3,7 +3,7 @@
 ### Getting Setup
 
 You'll need to install
-the [dnspython](http://www.dnspython.org/) library though.  You can do so
+the [dnspython](http://www.dnspython.org/) library.  You can do so
 using [pip](https://pip.pypa.io/en/stable/).  In most cases you can
 do so by running one of the following commands on your system:
 
